@@ -14,4 +14,7 @@ for this project you will:
   **Project page**
 
   - write an essy about:
-    - th
+    - how the web works
+    - data to information to actions
+      - the essays must display a use of various html technologoies such as tables, forms, images, alt tags.
+      - when reference information use the harvard referencing method.
