@@ -8,5 +8,5 @@ for this project you will:
 
   **About page.**
   
-  -include, name, age, location, education,and work experience.
+  - include, name, age, location, education,and work experience.
   -
