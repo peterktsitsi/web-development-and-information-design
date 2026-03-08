@@ -1,4 +1,4 @@
-# web-development-and-ind-formation-design
+# web-development-and-information-design
 a repo that contains all the files associated with the se: web development and information design course.
 
 ## Project 1a: introduction to web development and information design.
