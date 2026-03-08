@@ -8,5 +8,10 @@ for this project you will:
 
   **About page.**
   
-  - include, name, age, location, education,and work experience.
-  -
+  - include, name, age, location, education,work experience, small profile introduction.
+  - add an image of yourself or alliac
+
+  **Project page**
+
+  - write an essy about:
+    - th
