@@ -1,5 +1,14 @@
-# web-development-and-information-design
+# Web-Development-and-Information-Design
 *A repo that contains all the files associated with the se: web development and information design course.*
+
+#### Course Structure.
+
+There are X topics, and each topic will have 2 section.
+- Section A: Inforomation Design topics
+      - Project A : Demonstrate your knowledge of design topic in a practical
+- Section B: Web Development topics
+      - Project B : Demonstrate your web based programming in a practical
+---
 
 ## Project 1a: Introduction to information design.
 
