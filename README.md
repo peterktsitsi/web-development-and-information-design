@@ -4,10 +4,10 @@
 #### Course Structure.
 
 There are X topics, and each topic will have 2 section.
-- Section A: Inforomation Design topics
-      - Project A : Demonstrate your knowledge of design topic in a practical
+- Section A: Inforomation Design topics.
+  - Project A : Demonstrate your knowledge of design topic in a practical
 - Section B: Web Development topics
-      - Project B : Demonstrate your web based programming in a practical
+  - Project B : Demonstrate your web based programming in a practical
 ---
 
 ## Project 1a: Introduction to information design.
@@ -15,10 +15,25 @@ There are X topics, and each topic will have 2 section.
 For this project you'll be practicing the skills of information design... step 1 of modern information design is **summarising information**. You will be writing 2 essays.
 
 - Essay 1: how the web works
-    - structure:
-    - bs
+  - Introduction
+  - Internet vs Web
+  - Browsers
+  - DNS
+  - HTTP
+  - Web Servers
+  - HTML
+  - CSS and JavaScript
+  - Rendering
+  - Conclusion
 - Essay 2: Data to Information to Actioins
-    - struct
+  - Introduction
+  - What is Data
+  - Transforming Data into Information
+  - From Information to Insight
+  - From Insight to Action
+  - Real-World Applications
+  - Role of Information Design
+  - Conclusion
 
 ## Project 1b: Introduction to Web Development.
 
@@ -33,8 +48,5 @@ For this project you will:
 
   **Project page**
 
-  - write an essy about:
-    - how the web works
-    - data to information to actions
-      - the essays must display a use of various html technologoies such as tables, forms, images, alt tags.
-      - when reference information use the harvard referencing method.
+  - Take the 2 essays from the first project and convert them into a web document.
+  - Use the harvard Referencing methord for any data that is being refered to.
