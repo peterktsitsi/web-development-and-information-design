@@ -140,6 +140,6 @@ You must have:
 
 ## Module 3: Introduction to Learning System and Programming
 
-### Project 3A:
+### Project 3A: Introduction to Learning Systems
 
-### Project 3B:
+### Project 3B: Introduction to Programming: JavaScript
