@@ -92,7 +92,7 @@ But wait there's more...
 
 Now you must Create you first Design System.
 
-## Creating Your First Website Design System (Portfolio)
+**Creating Your First Website Design System (Portfolio)**
 
 1. **Define the Page Structure**  
    Decide the main sections of your site (hero, about, projects, contact).
@@ -126,4 +126,20 @@ Time to move on to the next stage, Apply this design system to your website.
 
 ### Project 2B: Building Layouts with CSS
 
-more coming soon.
+Using the design Document from above, **Style** your website, with **CSS** with some supporting tech like **SASS** not frameworks on libraries.
+
+You must have:
+  - Atleast 2 pages
+  - styled consistently
+  - demonstrate
+      - good layout
+      - good typography
+      - good color theory and consistent theming
+      - animations
+---
+
+## Module 3: Introduction to Learning System and Programming
+
+### Project 3A:
+
+### Project 3B:
